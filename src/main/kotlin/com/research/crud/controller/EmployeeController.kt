@@ -2,6 +2,7 @@ package com.research.crud.controller
 
 import com.research.crud.model.Employee
 import com.research.crud.repository.EmployeeRepository
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 import java.util.*
 
@@ -9,6 +10,7 @@ import java.util.*
 @RequestMapping("/employee")
 class EmployeeController {
 
+    @Autowired
     lateinit var employeeRepository: EmployeeRepository
 
     @PostMapping
