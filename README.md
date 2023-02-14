@@ -32,4 +32,4 @@ Used technologies
 
 - /employee/{id} Удаление сущности из БД по указанному параметру(id) (DELETE)
 
-![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_8.png)
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_7.png)
