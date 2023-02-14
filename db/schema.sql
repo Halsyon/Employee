@@ -4,5 +4,5 @@ CREATE TABLE develop.employee
     name       VARCHAR(255),
     age        INTEGER,
     department VARCHAR(255),
-    CONSTRAINT id_pk PRIMARY KEY (id)
+    CONSTRAINT employee_pk PRIMARY KEY (id)
 );
