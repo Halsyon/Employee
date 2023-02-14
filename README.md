@@ -14,3 +14,22 @@ Used technologies
 - PostgreSQL (DB)
 - Postman - Test REST API
 - Travis C.I.
+
+- /employee Получение списка сущностей из БД (GET)
+
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_4.png)
+
+- /employee/{id} Получение сущности (GET)
+
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_3.png)
+
+
+- /employee Создание записи в БД - новой сущности (POST)
+
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_5.png)
+
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_6.png)
+
+- /employee/{id} Удаление сущности из БД по указанному параметру(id) (DELETE)
+
+![Image of Arch](https://github.com/Halsyon/Employee/blob/master/image/Screenshot_8.png)
