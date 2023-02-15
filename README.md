@@ -1,12 +1,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Halsyon/Employee?logo=github)
-![GitHub top language](https://img.shields.io/github/languages/top/Halsyon/Employee?logo=kotlin&logoColor=violet)
+![GitHub top language](https://img.shields.io/github/languages/top/Halsyon/Employee?logo=kotlin)
 
 ### App Employee Service
 
 Application under construction!
 
 Used technologies
-
 - Kotlin Core
 - Rest API
 - Spring Boot (Data JPA, Web)
